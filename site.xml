@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <description url="https://get-saros.herokuapp.com/eclipse">
+   <description url="https://www.saros-project.org/update-site/eclipse">
       Site to install the Saros Feature for Distributed Party Programming
    </description>
-   <feature url="https://get-saros.herokuapp.com/eclipse/features/de.fu_berlin.inf.dpp.feature_14.10.31.jar" id="de.fu_berlin.inf.dpp.feature" version="14.10.31">
+   <feature url="features/saros.feature_15.0.0.jar" id="saros.feature" version="15.0.0">
       <category name="DPP"/>
    </feature>
-   <archive path="de.fu_berlin.inf.dpp_14.10.31.jar" url="https://get-saros.herokuapp.com/eclipse/plugins/de.fu_berlin.inf.dpp_14.10.31.jar"/>
-   <archive path="de.fu_berlin.inf.dpp.whiteboard_14.10.31.jar" url="https://get-saros.herokuapp.com/eclipse/plugins/de.fu_berlin.inf.dpp.whiteboard_14.10.31.jar"/>
-   <archive path="de.fu_berlin.inf.dpp.core_0.1.0.jar" url="https://get-saros.herokuapp.com/eclipse/plugins/de.fu_berlin.inf.dpp.core_0.1.0.jar"/>
    <category-def name="DPP" label="DPP"/>
 </site>
