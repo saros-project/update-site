@@ -4,4 +4,4 @@ This repository hosts the Saros update-site, but the
 main update-site url which redirects to this update-site
 is **<http://www.saros-project.org/update-site/eclipse/>**
 
-Update-site is based on the saros commit: **[2c8c74211b0fc06c5d3f921f83a129a941210086](https://github.com/saros-project/saros/commit/2c8c74211b0fc06c5d3f921f83a129a941210086)**
+Update-site is based on the saros commit: **[be479428c74bc3a0498f66eadba072d06991f9d2](https://github.com/saros-project/saros/commit/be479428c74bc3a0498f66eadba072d06991f9d2)**
